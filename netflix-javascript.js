@@ -1,4 +1,4 @@
-// Get all elements with the class "FAQ-toggle"
+
 const FAQButtons = document.querySelectorAll(".FAQ-toggle");
 const FAQAnswers = document.querySelectorAll(".FAQ-answer");
 
